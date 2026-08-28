@@ -4,3 +4,4 @@ pycache/
 *.pyo
 *.pyd           
 __pycache__/
+.kilo/
